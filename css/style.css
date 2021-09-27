@@ -30,6 +30,9 @@
 .iconos-derecha{
     grid-column: 3/6;
 }
+.iconos-derecha img{
+    width: 2em;
+}
 .espacio-cuerpo-izquierda{
     grid-row: 2/3;
 }
